@@ -2,7 +2,7 @@ package nf.co.softcun.jetpack_practico
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import nf.co.softcun.jetpack_practico.ui.main.MainFragment
+import nf.co.softcun.jetpack_practico.ui.mainstart.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

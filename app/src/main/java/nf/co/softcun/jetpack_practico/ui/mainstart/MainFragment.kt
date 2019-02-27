@@ -1,4 +1,4 @@
-package nf.co.softcun.jetpack_practico.ui.main
+package nf.co.softcun.jetpack_practico.ui.mainstart
 
 import android.arch.lifecycle.ViewModelProviders
 import android.os.Bundle

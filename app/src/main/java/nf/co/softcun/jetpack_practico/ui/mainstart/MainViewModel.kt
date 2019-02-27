@@ -1,4 +1,4 @@
-package nf.co.softcun.jetpack_practico.ui.main
+package nf.co.softcun.jetpack_practico.ui.mainstart
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MutableLiveData
